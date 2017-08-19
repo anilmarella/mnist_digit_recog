@@ -1,2 +1,2 @@
 # mnist_digit_recog
-MNIST handwritten digit dataset. Classification using convolutional neural network
+CNN classifier for MNIST handwritten digits dataset using Google Tensorflow
